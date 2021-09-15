@@ -34,7 +34,7 @@ if(curl) {
 curl_easy_cleanup(curl);
  </code>
   
-PHP curl\
+PHP curl
 <code>
 <?php
 
